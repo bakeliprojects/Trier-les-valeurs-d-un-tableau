@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1502031337 source:e:\volkeno\tribullec\main.c
+	<stdio.h>
+	<stdlib.h>
+
